@@ -10,12 +10,17 @@ h3 {
   font-size: 20px;
   font-style: italic;
   text-decoration: underline;
+  color: #090738;
 }
 
 p {
-
+  color: #090738;
 }
 html{
   text-align: center;
   font-family: fantasy;
+  background-color: #9FE6DD;
+}
+img {
+  border:2px solid black;
 }
