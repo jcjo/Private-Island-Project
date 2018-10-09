@@ -32,4 +32,4 @@ CSS_
 
 *MIT*
 
-Copyright (c) 2016 **_Daniel Bennett and Jacey Tupa_**
+Copyright (c) 2018 **_Daniel Bennett and Jacey Tupa_**
